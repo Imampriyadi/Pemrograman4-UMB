@@ -4,9 +4,9 @@
 * Masukan Username 'admin' dan Password 'admin'
   
 # Tampilan Awal Aplikasi
-![Beranda] (https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/Tampilan%202.png)
+![Beranda] (https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/Tampilan%20Awal.png)
 # Tampilan Login
-![Login](https://github.com/user-attachments/assets/Tampilan Awal.png)
+![Login](https://github.com/user-attachments/assets/Tampilan%202.png)
 # Tampilan Login Gagal
 ![login gagal](https://github.com/user-attachments/assets/tampilan3.png)
 # Tampilan Login Berhasil dan Masuk Beranda
