@@ -5,10 +5,8 @@
   
 # Tampilan Awal Aplikasi
 ![Beranda](https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/Tampilan%20Awal.png)
-# Tampilan Login
-![Login](https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/Tampilan%202.png)
 # Tampilan Login Gagal
-![login gagal](https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/tampilan3.png)
+![login gagal](https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/Tampilan%202.png)
 # Tampilan Login Berhasil dan Masuk Beranda
 ![Login Berhasil](https://github.com/Imampriyadi/Pemrograman4-UMB/blob/main/Pemrograman4-UMB/tampilan3.png)
 
